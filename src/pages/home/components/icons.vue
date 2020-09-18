@@ -79,6 +79,10 @@ export default {
 </script>
 
 <style scoped>
+.icons {
+    margin-top: .1rem;
+}
+
 .icons>>>.swiper-container {
     height: 0;
     padding-bottom: 50%;
